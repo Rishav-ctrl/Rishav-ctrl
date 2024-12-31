@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishav-ctrl
+- 👋 Hi, I’m @Shrawak-Hack
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Machine learning algorithm
 
